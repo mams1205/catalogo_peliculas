@@ -8,4 +8,4 @@ Este es un portfolio creado con python usando tkinter y con SQL utilizando sqlit
 * [LinkedIn](www.linkedin.com/in/marioms1205)
 
 ## Contratación
-Si quieres contratarme puedes escribirme a edfierropro@gmail.com para consultas.
+Si quieres contratarme puedes escribirme a mariosegovia1205@gmail.com para consultas.
